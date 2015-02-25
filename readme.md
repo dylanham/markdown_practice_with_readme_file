@@ -1,2 +1,2 @@
-# example of markdown
+# example of markdown using a '#' sign
 example without markdown
